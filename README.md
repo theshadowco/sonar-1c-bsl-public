@@ -10,5 +10,5 @@ public repository to request checks for Vanessa Torpedo
 
 ## Обсуждение продукта
 
-* возможно тут xdd.silverbulleters.org/t/bazovye-veshhi-sonarqube/533
+* возможно тут https://xdd.silverbulleters.org/t/bazovye-veshhi-sonarqube/533
 * посмотреть демо возможности можно тут https://sonar.silverbulleters.org/component_measures/?id=vanessa-agiler
