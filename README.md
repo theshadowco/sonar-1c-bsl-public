@@ -2,11 +2,11 @@
 
 [![Gitter](https://badges.gitter.im/silverbulleters/sonar-1c-bsl-public.svg)](https://gitter.im/silverbulleters/sonar-1c-bsl-public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-[Vanessa Torpedo](https://www.silverbulleters.org/sonarqube-1c-bsl-plugin/)
+[Vanessa Torpedo](https://www.silverbulleters.org/sonarqube/)
 
 ## English
 
-public repository to request checks for Vanessa Torpedo
+public repository to request checks via Vanessa Torpedo
 
 ## Russian
 
