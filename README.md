@@ -14,7 +14,7 @@ public repository to request checks via Vanessa Torpedo
 
 список текущих проверок можно посмотреть тут https://sonar.silverbulleters.org/coding_rules#languages=bsl (требуется акаунт GitHub Для входа)
 
-### Функционал (для не пнимающих)
+### Функционал (для не понимающих)
 
 SonarQube для 1С поддерживает
 
